@@ -1,4 +1,5 @@
-![Certificate Preview]([https://github.com/Nithishsj23/Investor-Preference-Analysis-Power-BI-project/blob/main/Dashboard-image.png?raw=true](https://github.com/Nithishsj23/Essentials-in-Generative-AI-by-Microsoft-LinkedIn/blob/main/CertificateOfCompletion_Career%20Essentials%20in%20Generative%20AI%20by%20Microsoft%20and%20LinkedIn.pdf))
+![Certificate Preview](https://github.com/Nithishsj23/Essentials-in-Generative-AI-by-Microsoft-LinkedIn/blob/main/Certificate.png?raw=true)
+
 
 
 # Essentials-in-Generative-AI-by-Microsoft-LinkedIn

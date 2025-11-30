@@ -1,4 +1,4 @@
-![Certificate Preview](https://github.com/Nithishsj23/Essentials-in-Generative-AI-by-Microsoft-LinkedIn/blob/main/Certificate.png?raw=true)
+![Certificate Preview](https://github.com/Nithishsj23/Essentials-in-Generative-AI-by-Microsoft-LinkedIn/blob/main/certificate_page_1.png)
 
 
 
